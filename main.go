@@ -99,5 +99,12 @@ func main() {
     // fmt.Println(Itoa(-1234))
     // fmt.Println(Itoa(987654321))
 
-	PrintMemory([10]byte{'h', 'e', 'l', 'l', 'o', 16, 21, '*'})
+	// PrintMemory([10]byte{'h', 'e', 'l', 'l', 'o', 16, 21, '*'})
+
+	// fmt.Println(SaveAndMiss("123456789", 3))
+	// fmt.Println(SaveAndMiss("abcdefghijklmnopqrstuvwyz", 3))
+	// fmt.Println(SaveAndMiss("", 3))
+	// fmt.Println(SaveAndMiss("hello you all ! ", 0))
+	// fmt.Println(SaveAndMiss("what is your name?", 0))
+	// fmt.Println(SaveAndMiss("go Exercise Save and Miss", -5))
 }

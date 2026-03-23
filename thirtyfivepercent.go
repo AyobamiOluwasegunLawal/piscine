@@ -121,3 +121,7 @@ func PrintHex(n byte) {
 		z01.PrintRune(rune('a' + (n - 10)))
 	}
 }
+
+func PrintRevComb() {
+	
+}
